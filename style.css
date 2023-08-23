@@ -9,3 +9,13 @@ body {
 	background: linear-gradient(rgb(209, 73, 125), rgb(187, 42, 42));
 	color: white;
 }
+
+input {
+	margin-block: 1rem;
+	padding: 5px;
+	font-size: 1rem;
+	border-radius: 50px;
+	background-color: rgb(78, 0, 55);
+	color: white;
+	border: none;
+}
